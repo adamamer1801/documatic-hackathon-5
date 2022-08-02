@@ -37,7 +37,6 @@ So we have 3 sub-commands, `ToCMM`, `FromCMM`, and `compile`
 <li> <b>ToCMM</b>: ToCMM just turns C++ code into C-- code 
 <ul>
     <li> <code>-o</code>: Specify output of conversion </li>
-    <li> <code>-es (encoding)</code>: Encodes all your strings in your program with the provided encoding</li>
 </ul>
 </li>
 <li> <b>FromCMM</b>: FromCMM turns C-- code into C++ code 
