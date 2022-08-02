@@ -4,15 +4,15 @@
 <img src="https://img.shields.io/static/v1?label=practicality&message=failing&color=red" />
 <img src="https://img.shields.io/static/v1?label=usefulness&message=none&color=lightgrey" />
 
-<h2>About</h2>
-C-- is C++ but reversed and flipped. Yes it just reverses the code and compiles it using a regular C++ compiler, but I read that we were graded on quality. Granted this code is probably not quality either. You can check the examples folder for C-- code, C++ code, Windows executables, and Unix (Linux/MacOS) binaries.
+<h2>**About**</h2>
+C-- is C++ but **reversed** and **flipped**. Yes it just reverses the code and compiles it using a regular C++ compiler, but I _read_ that we were graded on quality. Granted this code is probably **not** quality either. You can check the `examples` folder for C-- code, C++ code, Windows executables, and Unix (Linux/MacOS) binaries.
 
-But to make it a bit more "quality", I added an online compiler which compiles Windows executables, over HTTP.
+But to make it a bit more _quality_, I added an online compiler which compiles Windows executables, over **HTTP**.
 
 <br /> <br />
 
-<h2>How to run</h2>
-<h3>Jarfile is in dist folder</h3>
+<h2>**How to run**</h2>
+<h3>**Note:** Jarfile is in dist folder</h3>
 I tried to convert the .jar into the binaries for Windows, MacOS and Linux but all the Java wrappers are either paid, outdated, or complicated so just run the jarfile with <code>java -jar cli.jar [..arguments]</code>.
 <br><br>
 <h3> Normal person </h3>
