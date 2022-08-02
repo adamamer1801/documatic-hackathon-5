@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=usefulness&message=none&color=lightgrey" />
 
 <h2><b>About</b></h2>
-C-- is C++ but **reversed** and **flipped**. Yes it just reverses the code and compiles it using a regular C++ compiler, but I _read_ that we were graded on quality. Granted this code is probably **not** quality either. You can check the `examples` folder for C-- code, C++ code, Windows executables, and Unix (Linux/MacOS) binaries.
+C-- is C++ but **reversed** and **flipped**. Yes it just reverses the code and compiles it using a regular C++ compiler, but I _read_ that we were graded on quality. Granted this code is probably **not** quality either. You can check the <code>examples</code> folder for C-- code, C++ code, Windows executables, and Unix (Linux/MacOS) binaries.
 
 But to make it a bit more _quality_, I added an online compiler which compiles Windows executables, over **HTTP**.
 
