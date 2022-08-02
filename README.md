@@ -32,7 +32,7 @@ I tried to convert the .jar into the binaries for Windows, MacOS and Linux but a
 <br /><br />
 
 <h2>Subcommands</h2>
-So we have 3 sub-commands, `ToCMM`, `FromCMM`, and `compile`
+So we have 3 sub-commands, <code>ToCMM</code>, <code>FromCMM</code>, and <code>compile</code>
 <ul>
 <li> <b>ToCMM</b>: ToCMM just turns C++ code into C-- code 
 <ul>
