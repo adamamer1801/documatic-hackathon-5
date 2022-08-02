@@ -11,8 +11,8 @@ But to make it a bit more _quality_, I added an online compiler which compiles W
 
 <br /> <br />
 
-<h2>**How to run**</h2>
-<h3>**Note:** Jarfile is in dist folder</h3>
+<h2><b>How to run</b></h2>
+<h3><b>Note:** Jarfile is in dist folder</b></h3>
 I tried to convert the .jar into the binaries for Windows, MacOS and Linux but all the Java wrappers are either paid, outdated, or complicated so just run the jarfile with <code>java -jar cli.jar [..arguments]</code>.
 <br><br>
 <h3> Normal person </h3>
